@@ -37,6 +37,6 @@ I am an Australian 🇦🇺 developer 👨‍💻 based in San Francisco 🌉 �
 
 ---
 
-[website]: https//www.timhward.net
+[website]: https://www.timhward.net
 [twitter]: https://twitter.com/timhward
 [linkedin]: https://linkedin.com/in/timhward
