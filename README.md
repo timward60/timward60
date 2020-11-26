@@ -30,9 +30,6 @@ I am an Australian 🇦🇺 developer 👨‍💻 based in San Francisco 🌉 �
 
 ➡️ [read more blog posts...][website]
 
-<br/>
-<br/>
-
 ---
 
 ## 💯 Latest Developments
