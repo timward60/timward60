@@ -22,8 +22,8 @@ I am an Australian 🇦🇺 developer 👨‍💻 based in San Francisco 🌉 �
 
 <!-- BLOG-POST-LIST:START -->
 - [Dynamic Generation and Execution of Virtual Machine Work Units on the Grid](https://www.timhward.net/dynamic-generation-and-execution-of-virtual-machine-work-units-on-the-grid/)
-- [Grid Virtual Appliance Packager (GVAP)](https://www.timhward.net/grid-virtual-appliance-packager-gvap/)
-- [Grid Virtual Appliance (GVA)](https://www.timhward.net/grid-virtual-appliance-gva/)
+- [Grid Virtual Appliance Packager &lpar;GVAP&rpar;](https://www.timhward.net/grid-virtual-appliance-packager-gvap/)
+- [Grid Virtual Appliance &lpar;GVA&rpar;](https://www.timhward.net/grid-virtual-appliance-gva/)
 - [Virtual Machines as Work Units Prototype](https://www.timhward.net/virtual-machines-as-work-units-prototype/)
 - [Marshall - An Intranet Documentation System](https://www.timhward.net/marshall-an-intranet-documentation-system/)
 <!-- BLOG-POST-LIST:END -->
