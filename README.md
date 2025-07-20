@@ -11,7 +11,7 @@
 I am an Australian 🇦🇺 developer 👨‍💻 based in San Francisco 🌉 🇺🇸:
 
 - 🔭 I’m currently working on ... GraphQL API Gateway 🤖
-- 🌱 I’m currently learning ... Java ☕
+- 🌱 I’m currently learning ... Arduino 🚀
 - 👨‍👩‍👧‍👦 I’m looking to collaborate on ... GraphQL 🏗
 - 🤔 I’m looking for help with ... GraphQL Subscriptions 🛹
 - 💬 Ask me about ... GraphQL 🛣
